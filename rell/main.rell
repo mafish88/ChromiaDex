@@ -2,10 +2,7 @@ import acc: lib.ft3.account;
 import core: lib.ft3.core;
 import lib.ft3.ft3_basic_dev;
 
-//to get a better postchain image, I'm adding random things
-//ChoccySwap dex on Chromia
-//Yeah I'm adding these comments only to have a better chain pfp
-//The following \ns will be for the same reason
+
 
 
 
